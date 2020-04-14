@@ -4,4 +4,4 @@ This project was made with the intent of analyzing a business-oriented decision,
 
 # Academic
 
-Material produced as part of the Data Analyst Nanodegree program from Udacity, as a requirement of the Practical Statistics module.
+Material produced as part of Udacity's Data Analyst Nanodegree program, as a requirement to the Practical Statistics module.
